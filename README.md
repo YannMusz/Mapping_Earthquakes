@@ -7,7 +7,6 @@ Mapping Earthquakes with JS  APIs
 3. Merge a branch with the main branch on GitHub.
 4. Retrieve data from a GeoJSON file.
 5. Make API requests to a server to host geographical maps.
-6. 
 
 # Results: 
 ## Creating the overlays and controls:
